@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.fiveLesson;
+package com.gmail.jurkov1990.homework.five;
 import java.util.Scanner;
 
 

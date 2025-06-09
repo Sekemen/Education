@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.thirdLeson;
+package com.gmail.jurkov1990.homework.third;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

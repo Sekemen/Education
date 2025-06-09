@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.tenLesson;
+package com.gmail.jurkov1990.homework.ten;
 
 import java.util.Scanner;
 import java.util.Random;

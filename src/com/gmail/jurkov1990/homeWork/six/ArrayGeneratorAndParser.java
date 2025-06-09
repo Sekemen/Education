@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.sixLesson;
+package com.gmail.jurkov1990.homework.six;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.secondLesson.orders;
+package com.gmail.jurkov1990.homework.second;
 
 public class OnlineOrder {
     public static void main(String[] args) {
