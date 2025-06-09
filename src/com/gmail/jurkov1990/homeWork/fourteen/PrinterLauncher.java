@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.fourteen;
+package com.gmail.jurkov1990.homework.fourteen;
 
 public class PrinterLauncher {
     public static void main(String[] args) {

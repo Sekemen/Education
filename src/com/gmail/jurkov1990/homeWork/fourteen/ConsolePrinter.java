@@ -1,4 +1,4 @@
-package com.gmail.jurkov1990.homeWork.fourteen;
+package com.gmail.jurkov1990.homework.fourteen;
 
 public class ConsolePrinter implements Printer {
 
